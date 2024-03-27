@@ -1,0 +1,10 @@
+<! DOCTYPE html>
+<html>
+<head>
+<title>my webpage</title>
+</head>
+<body>
+<h1>inser an image using source and alt attributes</h1>
+<img src="image.jpg" alt="web logo"/>
+</body>
+</html>
