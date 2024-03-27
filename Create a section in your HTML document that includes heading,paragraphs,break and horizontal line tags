@@ -1,0 +1,11 @@
+<! DOCTYPE html >
+<html>
+<head>
+<title>my webpage</title>
+</head>
+<body>
+<h2> creating HTML document that includes heading, paragraphs, break and horizontal tags</h2>
+<h1> introduction to myself</h1>
+<p> Good morning, my name is Meghana , currently pursuing my final year of b.tech in NBKR.Throught my academics i bagged some projects related to our core domain<br/> projects<hr> Satellite image classification using ELBP and SVM classifier.<br/> I have some knowledge in Python,c language and javascript etc..I want to pursue my career as a web developer.</p>
+</body>
+</html>
