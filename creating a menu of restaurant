@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>welcome to PRAKRUTI</h1>
+    <h3>about</h3>
+    <p>Order Food Online from Prakruthi Restaurant Islampura Karimnagar. Enjoy Delicious Food Delivered To Your Doorstep. Quick And Easy Online Food Delivery Via ...</p>
+    <h2>menu of restaurant</h2>
+    <table border="1">
+        <thead>
+        <th>item</th>
+        <th>price</th>
+        <th>cuisine</th>
+        </thead>
+        <tbody>
+        <tr>
+            <td>noodles<hr><img src="../noodles.jpg" height="" width="100"></td>
+            <td>700</td>
+            <td>chineese</td>
+        </tr>
+        <tr>
+            <td>biriyani<hr><img src="../biriyani.jpg" height="" width="100"></td>
+            <td>500</td>
+            <td>indian</td>
+        </tr>
+        <tr>
+            <td>pizza<hr><img src="../pizza.jpg" height="" width="100"></td>
+            <td>100</td>
+            <td>american</td>
+        </tr>
+        
+    </tbody>
+    </table>
+    <h3>thanks for visiting....keep eating</h3>
+</body>
+</html>
